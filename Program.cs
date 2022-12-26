@@ -2,7 +2,6 @@
 // 4 -> да
 // -3 -> нет
 // 7 -> нет
-// Convert.ToInt32(Console.Readline());
 
 Console.WriteLine("Fill in a number: ");
 int a = Convert.ToInt32(Console.ReadLine());
