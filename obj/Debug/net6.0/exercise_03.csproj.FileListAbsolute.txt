@@ -1,0 +1,16 @@
+C:\Users\Мамедова Натаван\Desktop\HWsem1\exercise_03\obj\Debug\net6.0\exercise_03.GlobalUsings.g.cs
+C:\Users\Мамедова Натаван\Desktop\HWsem1\exercise_03\obj\Debug\net6.0\exercise_03.csproj.AssemblyReference.cache
+C:\Users\Мамедова Натаван\Desktop\HWsem1\exercise_03\obj\Debug\net6.0\exercise_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мамедова Натаван\Desktop\HWsem1\exercise_03\obj\Debug\net6.0\exercise_03.AssemblyInfoInputs.cache
+C:\Users\Мамедова Натаван\Desktop\HWsem1\exercise_03\obj\Debug\net6.0\exercise_03.AssemblyInfo.cs
+C:\Users\Мамедова Натаван\Desktop\HWsem1\exercise_03\obj\Debug\net6.0\exercise_03.csproj.CoreCompileInputs.cache
+C:\Users\Мамедова Натаван\Desktop\HWsem1\exercise_03\bin\Debug\net6.0\exercise_03.exe
+C:\Users\Мамедова Натаван\Desktop\HWsem1\exercise_03\bin\Debug\net6.0\exercise_03.deps.json
+C:\Users\Мамедова Натаван\Desktop\HWsem1\exercise_03\bin\Debug\net6.0\exercise_03.runtimeconfig.json
+C:\Users\Мамедова Натаван\Desktop\HWsem1\exercise_03\bin\Debug\net6.0\exercise_03.dll
+C:\Users\Мамедова Натаван\Desktop\HWsem1\exercise_03\bin\Debug\net6.0\ref\exercise_03.dll
+C:\Users\Мамедова Натаван\Desktop\HWsem1\exercise_03\bin\Debug\net6.0\exercise_03.pdb
+C:\Users\Мамедова Натаван\Desktop\HWsem1\exercise_03\obj\Debug\net6.0\exercise_03.dll
+C:\Users\Мамедова Натаван\Desktop\HWsem1\exercise_03\obj\Debug\net6.0\ref\exercise_03.dll
+C:\Users\Мамедова Натаван\Desktop\HWsem1\exercise_03\obj\Debug\net6.0\exercise_03.pdb
+C:\Users\Мамедова Натаван\Desktop\HWsem1\exercise_03\obj\Debug\net6.0\exercise_03.genruntimeconfig.cache
